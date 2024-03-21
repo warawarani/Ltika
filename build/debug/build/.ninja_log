@@ -1,0 +1,25 @@
+# ninja log v5
+393	2362	7326944996265226	CMakeFiles/Ltika_test.dir/Core/Startup/startup_stm32f446retx.s.obj	b96aabf103998ae6
+344	2371	7326944996137672	CMakeFiles/Ltika_test.dir/Core/Src/sysmem.c.obj	1ee73a10106ea620
+360	2463	7326944997292332	CMakeFiles/Ltika_test.dir/Core/Src/syscalls.c.obj	9483ce0b631bb6e9
+353	2545	7326944997919893	CMakeFiles/Ltika_test.dir/Core/Src/stm32f4xx_it.c.obj	aebb2d9e194a5a2c
+377	2566	7326944998185159	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	62ef386bf76e446a
+416	2574	7326944998247456	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	a06f9d12df7010cb
+1	2621	7326944998772937	CMakeFiles/Ltika_test.dir/Core/Src/stm32f4xx_hal_msp.c.obj	de9015f2bde2cf02
+402	2639	7326944998772937	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	b15521d029be17c8
+368	2664	7326944998772937	CMakeFiles/Ltika_test.dir/Core/Src/system_stm32f4xx.c.obj	dd00118323153033
+410	2733	7326944999255470	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	4bf6ef3f17777a2a
+2372	3401	7326945006598107	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	f2901c599c56f261
+2363	3491	7326945007199162	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	e02a1246fa53d564
+2546	3520	7326945007509695	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	7813d136c6f5d0e6
+2640	3574	7326945007958686	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	e57409991e62d527
+2567	3586	7326945007996379	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	820dbb7e8a0ca5af
+2622	3609	7326945008677997	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	8afad053155c8230
+2464	3636	7326945008743106	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	3bae66be9afce986
+2574	3704	7326945010019333	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	603c2b8b27a2f06e
+2664	3732	7326945010314303	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	226a68c6e66fb01c
+2734	3745	7326945010358197	CMakeFiles/Ltika_test.dir/Core/Src/main.c.obj	5592f83e4e73633a
+3491	4018	7326945013275020	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	b5ee1384b70361e0
+3521	4099	7326945014080020	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	2735fb4ab5a8ff24
+3402	4181	7326945014941467	CMakeFiles/Ltika_test.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	13b68c00877dd8f1
+4182	5094	7326945021739658	Ltika_test.elf	7e4a85c27c3726da

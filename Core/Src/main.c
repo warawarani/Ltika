@@ -97,7 +97,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
-    HAL_Delay(500);
+    HAL_Delay(250);
     HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_5);
     /* USER CODE BEGIN 3 */
   }
